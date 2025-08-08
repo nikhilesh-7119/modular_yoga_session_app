@@ -1,4 +1,4 @@
-# modular_yoga_session_app
+# Yoga Session App
 
 Flutter project build using MVVM architecture. 
 This project is about parsing the JSON file to extract the data from the JSON file and play the audio with changing images in sync to the audio. 
